@@ -69,8 +69,3 @@ while True:
 
     print("")
 
-
-"""
-68 classes
-out of 72 classes, so you can only miss 4 classes
-"""
